@@ -169,9 +169,9 @@
 /*********************************************************************************/
 
 	#header
-	{
-		height: 7em;
-		padding: 0;
+	{	padding: 14em 0 6em 0;
+		height: 2em;
+		
 		background-position: center center;
 		
 	}
